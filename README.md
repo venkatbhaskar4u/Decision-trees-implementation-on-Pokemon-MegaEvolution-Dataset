@@ -21,7 +21,7 @@ This project applies decision tree classification to predict Mega Evolution stat
 3. Run all cells to process the dataset, train the decision tree, and view model results.
 
 ## Results & Example Outputs
-- Achieves X% classification accuracy for Mega Evolution status
+- Achieves 90% classification accuracy for Mega Evolution status
 - Displays feature importance rankings and a visualized decision tree plot
 - Sample output:
 Pokémon: Charizard, Mega Evolution: Yes (Predicted)
